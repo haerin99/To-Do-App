@@ -1,1 +1,40 @@
 # To-Do-App
+
+Organize daily tasks and track habits.
+
+## Features
+Login:
+- email address and password
+- Google authentication
+
+4 tabs: Tasks, Inbox, Labels, Habits.
+- Tasks
+  - Dark and light modes
+  - Add sections
+  - Filter: All, Habits, To-Dos, and Recurring.
+- Inbox
+  - Toggle to sort by label
+- Labels
+  - Choose from 9 possible colors
+- Habits
+  - Set the daily reset time. Habits and recurring tasks will be unchecked at this time every day.
+  - Grid tracker for the past 6 months
+  - Streak counter
+  - Linked to Tasks and Inbox. Deleting a task marked as a habit in Tasks/Inbox will delete it from Habits, and vice versa.
+
+When adding a task, you can select its location as either Tasks (a particular section or no section) or Inbox. When editing a task, you can change its location, toggle Habit or Recurring, select a label, and add subtasks. Drag-and-drop and keyboard shortcuts (copy, paste, select one, select a range, esc, and delete) are available.
+
+## Set up
+Google authentication.
+1. Create a project on Firebase Console (console.firebase.google.com). Add a web app.
+2. Under Product categories, set up the following.
+   - Security > Authentication
+   - Databases & Storage > Firestore
+3. Go to Settings > General. Scroll down and copy const firebaseConfig, including brackets. Download the HTML file from this repository. Replace the const firebaseConfig (lines 701-709) in the file with the one you copied.
+
+Host the website for free.
+1. Create a project on Netlify (netlify.com).
+2. In Project overview, drag your HTML file to the appropriate space under Production deploys.
+3. Now you can start using your website.
+
+You can use websites other than Firebase Console and Netlify to set up Google authentication and to host the website.
