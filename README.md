@@ -3,24 +3,28 @@
 Organize daily tasks and track habits.
 
 ## Features
-Login:
+### Login
 - email address and password
 - Google authentication
 
-4 tabs: Tasks, Inbox, Labels, Habits.
-- Tasks
-  - Dark and light modes
-  - Add sections
-  - Filter: All, Habits, To-Dos, and Recurring.
-- Inbox
-  - Toggle to sort by label
-- Labels
-  - Choose from 9 possible colors
-- Habits
-  - Set the daily reset time. Habits and recurring tasks will be unchecked at this time every day.
-  - Grid tracker for the past 6 months
-  - Streak counter
-  - Linked to Tasks and Inbox. Deleting a task marked as a habit in Tasks/Inbox will delete it from Habits, and vice versa.
+### Tabs
+**Tasks**
+- Dark and light modes
+- Add sections
+- Filter: All, Habits, To-Dos, and Recurring.
+
+**Inbox**
+- Toggle to sort by label
+- Move tasks from Inbox to Tasks (a particular section or no section)
+
+**Labels**
+- Choose from 9 possible colors
+
+**Habits**
+- Set the daily reset time. Habits and recurring tasks will be unchecked at this time every day.
+- Grid tracker for the past 6 months
+- Streak counter
+- Linked to Tasks and Inbox. Deleting a task marked as a habit in Tasks/Inbox will delete it from Habits, and vice versa.
 
 When adding a task, you can select its location as either Tasks (a particular section or no section) or Inbox. When editing a task, you can change its location, toggle Habit or Recurring, select a label, and add subtasks. Drag-and-drop and keyboard shortcuts (copy, paste, select one, select a range, esc, and delete) are available.
 
