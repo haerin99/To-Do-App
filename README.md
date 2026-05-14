@@ -36,7 +36,7 @@ When adding a task, you can select its location as either Tasks (a particular se
 
 <img width="621" height="681" alt="Screenshot 2026-05-14 at 4 17 01 PM" src="https://github.com/user-attachments/assets/170a3400-7a7d-46fc-a1a1-b1ff3d5e5bdf" />
 
-<img width="1250" height="1374" alt="image" src="https://github.com/user-attachments/assets/fd88bc4f-8399-4168-b790-11ccf43a1772" />
+<img width="600" height="1374" alt="image" src="https://github.com/user-attachments/assets/fd88bc4f-8399-4168-b790-11ccf43a1772" />
 
 
 ## Set up
