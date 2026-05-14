@@ -28,9 +28,9 @@ Organize daily tasks and track habits.
 
 When adding a task, you can select its location as either Tasks (a particular section or no section) or Inbox. When editing a task, you can change its location, toggle Habit or Recurring, select a label, and add subtasks. Drag-and-drop and keyboard shortcuts (copy, paste, select one, select a range, esc, and delete) are available.
 
-<img width="627" height="683" alt="Screenshot 2026-05-14 at 4 18 33 PM" src="https://github.com/user-attachments/assets/9f0743ea-7e25-48bc-87fa-643632aae686" />
-
 <img width="615" height="667" alt="Screenshot 2026-05-14 at 4 16 13 PM" src="https://github.com/user-attachments/assets/98d9fb23-d956-48bc-be32-c85830f54d9e" />
+
+<img width="627" height="683" alt="Screenshot 2026-05-14 at 4 18 33 PM" src="https://github.com/user-attachments/assets/9f0743ea-7e25-48bc-87fa-643632aae686" />
 
 <img width="1219" height="679" alt="Screenshot 2026-05-14 at 4 16 32 PM" src="https://github.com/user-attachments/assets/1ba74322-9224-44af-bd8d-341fb2c3f2d5" />
 
