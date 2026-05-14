@@ -4,10 +4,10 @@ Organize daily tasks and track habits.
 
 ## Features
 ### Login
-- email address and password
+- Email address and password
 - Google authentication
 
-### Tabs
+### 4 tabs
 **Tasks**
 - Dark and light modes
 - Add sections
